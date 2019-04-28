@@ -1,7 +1,5 @@
 # Programming tutorials handbook
 
-## Here are the links to my free ebooks
-
 Link [flaviocopes](https://flaviocopes.com/)
 
 * The JavaScript Handbook (171 pages, PDF)
