@@ -1,7 +1,5 @@
 # Programming tutorials handbook
 
-Link [flaviocopes](https://flaviocopes.com/)
-
 * The JavaScript Handbook (171 pages, PDF)
 * JavaScript from ES5 to ESNext (75 pages, PDF)
 * The Node.js Handbook (189 pages, PDF)
